@@ -7,7 +7,7 @@ int main()
     // Декларація змінних
     double a, b, c, sum_sqrs;
     // Вивід позначення поточного завдання
-    cout << "Задача 1 - Begin 35\n";
+    cout << "Task 1 - Begin 35\n";
     // Введення змінних
     cout << "Enter side a: ";
     cin >> a;
